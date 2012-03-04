@@ -12,6 +12,8 @@ This was all done in one day, more or less as a proof-of-concept. Therefore, som
 
 If you're looking for a proper Modbus implementation for embedded devices, take a look at [FreeMODBUS][freemodbus].
 
+License: GPL3
+
 [qlc]: http://qlc.sourceforge.net/
 [enttec]: http://www.enttec.com/index.php?main_menu=Products&prod=70304&show=description
 [metaboard]: https://metalab.at/wiki/Metaboard
